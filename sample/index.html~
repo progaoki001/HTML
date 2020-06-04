@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="base.css"/>
+<title>ウェブサンプル株式会社</title>
+</head>
+<body>
+<h1>ウェブサンプル株式会社</h1>
+
+<!--main menu-->
+<ul id="menu">
+<li>ホーム</li>
+<li>製品紹介</li>
+<li>会社概要</li>
+<li>お問い合わせ</li>
+</ul>
+
+<h2>新着情報</h2>
+<h3>新商品のご案内</h3>
+<p>
+あいうえおかきくけこ
+</p>
+<h3>展示会への出店</h3>
+<p>
+あいうえおかきくけこ
+</p>
+<h3>環境への取り組み</h3>
+<p>
+あいうえおかきくけこ
+</p>
+<small>Copyrighting (c) ウェブサンプル株式会社 All Rights Reserved. </small>
+</body>
+</html>
