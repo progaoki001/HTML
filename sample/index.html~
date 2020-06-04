@@ -10,10 +10,10 @@
 
 <!--main menu-->
 <ul id="menu">
-<li>ホーム</li>
-<li>製品紹介</li>
-<li>会社概要</li>
-<li>お問い合わせ</li>
+<li><a href="index.html">ホーム</a></li>
+<li><a href="product.html">製品紹介</a></li>
+<li><a href="profile.html">会社概要</a></li>
+<li><a href="contact.html">お問い合わせ</a></li>
 </ul>
 
 <h2>新着情報</h2>
@@ -32,3 +32,5 @@
 <small>Copyrighting (c) ウェブサンプル株式会社 All Rights Reserved. </small>
 </body>
 </html>
+
+<!-- test -->
